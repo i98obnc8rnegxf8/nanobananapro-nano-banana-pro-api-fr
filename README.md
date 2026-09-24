@@ -6,7 +6,7 @@
 
 > À l'usage, rechargement dès 1 $, endpoint compatible OpenAI. **default $0.03; 4K $0.04**
 
-**[模型页](https://apimart.ai/model) · [实时价格](https://apimart.ai/pricing) · [获取 API Key](https://apimart.ai/keys)**
+**[模型页](https://go.apimart.ai/k-833e87) · [实时价格](https://go.apimart.ai/k-3c3643) · [获取 API Key](https://go.apimart.ai/k-d39370)**
 
 ## Tarifs（快照 2026-09-24）
 
